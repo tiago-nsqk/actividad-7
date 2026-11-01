@@ -2,9 +2,6 @@
 
 **Consigna:** desarrollar las tablas en Excel teniendo en cuenta los gustos de los compañeros.
 
-Se realizaron **3 tablas dinámicas** y, al final, una tabla estilo base de datos para poder hacer la comparación con una mejor.
-
-## Capturas
 
 Coloca las capturas en la carpeta `imagenes/` y deja estas referencias:
 
@@ -13,6 +10,3 @@ Coloca las capturas en la carpeta `imagenes/` y deja estas referencias:
 3. ![Tabla 3](imagenes/tabla_3.png)
 4. ![Tabla estilo base de datos](imagenes/tabla_4.png)
 
-## Nota
-
-Esta fue la parte de Excel hecha gracias a unos compañeros de clase. No se hicieron tablas muy grandes porque el tiempo no alcanzó, pero la dinámica gustó.
