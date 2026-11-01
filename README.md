@@ -1,9 +1,13 @@
-# Parte 1: Bases de datos, tipos de datos y reflexiones
+# Actividad 7: Excel, bases de datos, Python y MySQL
 
-1. [Tipos de datos](01_tipos_de_datos.md)
-2. [¿Qué pienso cuando escucho "No hay sistema"?](02_no_hay_sistema.md)
-3. [Impacto en banca, salud y comercio, y ejemplos históricos](03_impacto_y_ejemplos_historicos.md)
-4. [Antes de las computadoras](04_antes_de_las_computadoras.md)
-5. [Cuadro comparativo: antes vs. ahora](05_cuadro_comparativo.md)
-6. [Tablas en Excel (puntos 7 a 11)](06_tablas_excel.md)
-7. [Excel vs. una base de datos real](07_excel_vs_base_de_datos.md)
+Solución de la actividad 7, organizada por partes.
+
+| Parte | Contenido | Carpeta |
+|-------|-----------|---------|
+| 1 | Bases de datos, tipos de datos, reflexiones, tablas en Excel y comparación Excel vs. base de datos | [`parte1_bases_de_datos`](parte1_bases_de_datos/) |
+| 2 | Librerías y filosofías de Python y SQL | [`parte2_python_librerias`](parte2_python_librerias/) |
+| 3 | MySQL desde Python | [`parte3_mysql_python`](parte3_mysql_python/) |
+
+## Reflexión final
+
+La actividad estuvo bastante interesante: permitió entender las muchas aplicaciones y librerías de Python, conocer hallazgos y proyectos innovadores de varios autores y manejar mejor las terminales de Visual Studio Code.
