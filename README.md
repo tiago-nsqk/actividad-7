@@ -1,6 +1,6 @@
 # Actividad 7: Excel, bases de datos, Python y MySQL
 
-Solución de la actividad 7, organizada por partes.
+
 
 | Parte | Contenido | Carpeta |
 |-------|-----------|---------|
